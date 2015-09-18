@@ -10,7 +10,7 @@
 	<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 	<p>Web:</p>
 	<============================================>
-		 <a href="http://tap-51535.onmodulus.net/">tap.in</a>
+		 <a href="http://tap-51535.onmodulus.net/">Tap</a>
      <a href="http://privateselectionrecords.net/">Lightspeed</a>
      <a href="http://privateselectionrecords.net/">LinkUp</a>
      <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
