@@ -1,0 +1,12 @@
+<span id="a">jesse</span>:<span id="b">~</span><span id="c">$</span> cat jessepimenta.txt
+	<br>
+	Hi, I'm Jesse Pimenta.
+	<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+	<p>I studied digital media at Otis College of Art & Design. </p>
+	<!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+	<p>I'm the founder of a record label called Private Selection, and yes, records as in vinyl!
+		 <a href="http://privateselectionrecords.net/">Private Selection Records</a></p>
+     <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+	<p>I love to make music, mix records, design, and code.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->If you would like to get in touch with me for code-related stuff, design, or to just talk music<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment -->
+	<a href="mailto:opticdesign.jp@gmail.com">opticdesign.jp@gmail.com</a>
+  <p>cd <a href="/portfolio.html">Portfolio</a></p>
