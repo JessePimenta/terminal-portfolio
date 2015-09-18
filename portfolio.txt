@@ -1,0 +1,17 @@
+<span id="a">jesse</span>:<span id="b">~</span><span id="c">$</span> cat portfolio.txt
+	<br>
+	Take a look around! I've done various types of work in web and design.
+	<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+	<p>Design:</p>
+	<============================================>
+   <a href="http://www.obeyclothing.com/women/tees/transform-the-world-classic-crew-tee.html">Obey Womens Fall 2015</a>
+    <a href="https://plus.google.com/+Obeyclothing89/posts/NFtRRaBKYek?pid=6153603831586631442&oid=107332883465163656422">Obey Mens Summer 2015</a>
+     <a href="http://www.zumiez.com/obey-independent-artists-black-tee-shirt.html">Obey Independent Artists Tee</a>
+	<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+	<p>Web:</p>
+	<============================================>
+		 <a href="http://privateselectionrecords.net/">tap.in</a>
+     <a href="http://privateselectionrecords.net/">Lightspeed</a>
+     <a href="http://privateselectionrecords.net/">LinkUp</a>
+     <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+  <p><a href="/jessepimenta.html">back</a></p>
